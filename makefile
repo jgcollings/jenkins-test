@@ -1,4 +1,4 @@
 build:
-	g++ main.cpp
+	g++ -o hello main.cpp
 test:
 	exit 1
